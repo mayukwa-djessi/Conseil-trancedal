@@ -1,0 +1,8 @@
+<html> 
+        <head> <title> la geoplithique </title>
+              <body> <h1> le developpement et les sous developpement <h1> <strong>
+                <h2> la definition </h2>
+                 <h3 le developpement <hr>
+         </body>   
+       </head>
+       </html>
