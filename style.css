@@ -69,7 +69,8 @@ p{ font-family: serif;
    max-width:600px ;
 
 }
-body{ max-width:1000px; width:100%;
+body{ max-width:1000px;
+     width:100%;
       margin: auto;
       background-color:#0f172a;
       color:#217bf1;
