@@ -1,12 +1,12 @@
 
 
 h1{ color:rgb(0, 1, 61);
-    padding:0;
+    padding:10;
     text-align: center;
     margin-bottom: 40px;
     font-size: clamp(28, 6w, 64px);
     width: 100%;
-max-width: 500px;
+max-width: 600px;
     
 
  } 
@@ -19,11 +19,11 @@ h2 { color:rgb(0, 1, 48);
        border: none;
         padding-top: 35px;
         height: 5px;
-        padding: 0;
+        padding: 10;
         width:100%;
         border-bottom: 0px solid #dab642;
         margin-bottom: 40px;
-max-width: 500px;
+max-width: 600px;
 line-height: 1.2;
         
        
@@ -34,11 +34,11 @@ h3 {color: #0a1a30;
     font-size: 25px;
     height: 0cap;
     display: flex;
-padding: 0;
+padding: 10;
 width: 100%;
 padding-top: 35px;
 margin-bottom: 40px;
-max-width: 500px;
+max-width: 600px;
 
 }
 h4{color: rgb(0, 2, 32);
@@ -49,14 +49,14 @@ h4{color: rgb(0, 2, 32);
     height: 0px;
     margin-bottom: 40px;
     width: 100%;
-max-width: 500px;
+max-width: 600px;
 }
    p{ font-family: Arial,sans-serif;
-    height:0px;
+    height:10px;
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 40px;
-max-width: 500px;
+max-width: 600px;
    } 
 
 
@@ -66,11 +66,10 @@ p{ font-family: serif;
   width: 100%;
    height: 40px;
    font-size: 1.05rem; 
-   max-width:500px ;
+   max-width:600px ;
 
 }
-body{ max-width:1000px;
-     width:100%;
+body{ max-width:1000px; width:100%;
       margin: auto;
       background-color:#0f172a;
       color:#217bf1;
@@ -96,8 +95,7 @@ section{ background-color: white;
     box-sizing: border-box;
 
  }
- input, textarea,label{ width: 100%;
-                       max-width:500px;
+ input, textarea,label{ width: 300px;
    padding: 20px;
 
  }
